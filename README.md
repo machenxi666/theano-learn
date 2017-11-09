@@ -1,1 +1,1 @@
-# theano-leran
+# theano-learn
